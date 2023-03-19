@@ -57,6 +57,19 @@ a.facebook_link:hover {
 	line-height: 1;
 	margin-left: 10px;
 }
+
+#txtw {
+	top: 50%;
+	left: 50%;
+	font-family: 'Sniglet', cursive;
+	text-align: center;
+}
+#txt2x {
+	font-size: 17px;
+	line-height: 1.2;
+	color: #ff0066;
+}
+
 #txt2a {
 	font-size: 34px;
 	line-height: 1;
